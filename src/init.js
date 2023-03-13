@@ -1,5 +1,5 @@
 
-
+import "dotenv/config";
 import "./db";
 import "./models/Video";
 import "./models/User";
