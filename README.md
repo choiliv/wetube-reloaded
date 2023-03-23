@@ -1,3 +1,6 @@
+출처: 노마드코더 
+https://nomadcoders.co/wetube
+
 / -> Home
 /join -> Join
 /login -> Login
