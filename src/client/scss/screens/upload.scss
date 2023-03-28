@@ -1,8 +1,13 @@
-.upload__video {
-  label {
-    font-size: 14px;
-    margin-bottom: 10px;
-    display: block;
-
+.upload__container {
+    width: 100%;
+    .upload__video {
+      margin-bottom: 20px;
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+      video {
+        max-width: 100%;
+        margin-bottom: 10px;
+      }
+    }
   }
-}
